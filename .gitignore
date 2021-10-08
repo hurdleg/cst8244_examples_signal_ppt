@@ -6,9 +6,9 @@ build/
 translations/*.qm
 
 # IDE settings
-.settings/
-.metadata/
-.cproject
-.project
-.trgtproject
+#.settings/
+#.metadata/
+#.cproject
+#.project
+#.trgtproject
 myNTO/

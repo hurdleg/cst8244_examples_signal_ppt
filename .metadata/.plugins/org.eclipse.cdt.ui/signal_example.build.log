@@ -1,0 +1,6 @@
+11:09:51 **** Incremental Build of configuration x86_64-debug for project signal_example ****
+make -j11 all 
+make: Nothing to be done for 'all'.
+
+11:09:51 Build Finished (took 79ms)
+
