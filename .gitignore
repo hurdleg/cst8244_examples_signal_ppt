@@ -7,7 +7,7 @@ translations/*.qm
 
 # IDE settings
 #.settings/
-#.metadata/
+.metadata/
 #.cproject
 #.project
 #.trgtproject
